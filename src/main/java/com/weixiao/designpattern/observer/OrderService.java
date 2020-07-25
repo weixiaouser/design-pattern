@@ -8,7 +8,7 @@ import java.beans.Transient;
 
 /**
  * @author :weixiao
- * @description :
+ * @description :通过策略模式实现订单创建，及发送短信，微信服务，spring的监听机制实现
  * @date :2020/7/25 19:47
  */
 @Service
