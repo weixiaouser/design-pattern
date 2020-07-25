@@ -2,7 +2,7 @@ package com.weixiao.designpattern.strategy;
 
 /**
  * @author :weixiao
- * @description :
+ * @description :接口
  * @date :2020/7/25 21:58
  */
 public interface DiscountStrategy {

@@ -4,7 +4,7 @@ import org.springframework.stereotype.Service;
 
 /**
  * @author :weixiao
- * @description :
+ * @description :vip 会员
  * @date :2020/7/25 22:19
  */
 @Service

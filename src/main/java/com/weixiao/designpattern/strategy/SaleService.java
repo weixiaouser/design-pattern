@@ -9,7 +9,7 @@ import java.util.Map;
 
 /**
  * @author :weixiao
- * @description :
+ * @description :通过运用策略模式实现根据用户类型不同，商品折扣不同
  * @date :2020/7/25 21:47
  */
 @Service
